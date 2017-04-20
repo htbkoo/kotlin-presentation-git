@@ -1,9 +1,7 @@
-package koootlin.presentation.feature
-
-import presentation.feature.java.GetString
+package presentation.feature
 
 /**
- * Created by Hei on 16/03/2017.
+ *
  */
 
 fun main(args: Array<String>) {
